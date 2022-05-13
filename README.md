@@ -1,5 +1,3 @@
-## Creacion de una imagen con nginx y hmtl puro 
-
 # Creando imagen
 - docker build .
 # Creando imagen con tag
